@@ -1,3 +1,5 @@
-# Hackernews Server + Client 
+# Hackernews Client 
 
 Frontend: ReactJS
+
+Backend: https://github.com/DanielRSnell/hackernews-server
